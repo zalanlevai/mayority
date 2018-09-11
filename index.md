@@ -11,42 +11,26 @@ form_label: Űrlap kitöltése
 result_label: Eredmények megtekintése
 ---
 
-<iframe width="100%" height="348" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTz8sr7OHzLLJjUH02scm5a8iuVXw4qIiE-zlZb4GGmfpxVvaGvbFCY81HUR59xY7lm-9wUcV6fLT6e/pubchart?oid=1025866217&amp;format=interactive"></iframe>
+## Használat
 
-## Welcome to GitHub Pages
+A szavazásban való részvételhez válassza az `Űrlap kitöltése` gombot. Ez egy
+_Google Forms_ alapú ürlaphoz vezet, melynek kitöltése csupán pár percet vesz
+ígénybe. Az űrlap videókkal ellátott, így az oldal elhagyása egyáltalán nem
+szükséges a döntéshozatalhoz.
 
-You can use the [editor on GitHub](https://github.com/zalanlevai/mayority/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+**Figyelem!**
+```
+Az űrlap kitöltéséhez e-mail cím megadása kötelező. A személyes adatok gyűjtése
+csupán azonosítási okokból történik meg.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+A szavazás jelenlegi állása megtekinthető az `Eredmények megtekintése` gomb
+megnyomásával. Ez egy _Google Sheets_ alapú táblán keresztül közli az állást,
+diagrammal ellátva.
 
-### Jekyll Themes
+## Elérhetőség
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zalanlevai/mayority/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Ha bármi problémába ütközne az űrlap kitöltése során, valamint abban az esetben,
+ha jogainak érvényesítését kívánja, lépjen kapcsolatban a következő címen:
+[zalan.levai@gmail.com](mailto:zalan.levai@gmail.com)
