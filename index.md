@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: mayority
 description: Szavazórendszer a többségnek
 
