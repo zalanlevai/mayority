@@ -11,6 +11,8 @@ form_label: Űrlap kitöltése
 result_label: Eredmények megtekintése
 ---
 
+<iframe width="563" height="348" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTz8sr7OHzLLJjUH02scm5a8iuVXw4qIiE-zlZb4GGmfpxVvaGvbFCY81HUR59xY7lm-9wUcV6fLT6e/pubchart?oid=1025866217&amp;format=interactive"></iframe>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/zalanlevai/mayority/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
