@@ -13,6 +13,8 @@ result_label: Eredmények megtekintése
 
 ## Használat
 
+#### Szavazás
+
 A szavazásban való részvételhez válassza az `Űrlap kitöltése` gombot. Ez egy
 _Google Forms_ alapú ürlaphoz vezet, melynek kitöltése csupán pár percet vesz
 ígénybe. Az űrlap videókkal ellátott, így az oldal elhagyása egyáltalán nem
@@ -24,6 +26,8 @@ szükséges a döntéshozatalhoz.
 Az űrlap kitöltéséhez e-mail cím megadása kötelező. A személyes adatok gyűjtése
 csupán azonosítási okokból történik meg.
 ```
+
+#### Állás megtekintése
 
 A szavazás jelenlegi állása megtekinthető az `Eredmények megtekintése` gomb
 megnyomásával. Ez egy _Google Sheets_ alapú táblán keresztül közli az állást,
