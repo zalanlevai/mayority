@@ -5,7 +5,9 @@ description: Szavazórendszer a többségnek
 
 is_form_page: true
 form_url: https://docs.google.com/forms/d/e/1FAIpQLSeICpwRvlXCMHrmIoNRj5xMydudzSMm43s9CE_B51tvD1XcMA/viewform?usp=sf_link
-result_url: https://docs.google.com/spreadsheets/d/12BzW1fr_CeZNjhEHJo5hajQwcj5xex-b8ZNhdfYEn08/edit?usp=sharing
+result_url: https://docs.google.com/spreadsheets/d/12BzW1fr_CeZNjhEHJo5hajQwcj5xex-b8ZNhdfYEn08/view#gid=492635362
+form_label: Űrlap kitöltése
+result_label: Eredmények megtekintése
 ---
 
 ## Welcome to GitHub Pages
