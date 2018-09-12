@@ -31,8 +31,15 @@
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
       {% endif %}
       {% if page.is_form_page %}
-        <a href="{{ page.form_url }}" class="btn">{{ page.form_label }}</a>
-        <a href="{{ page.result_url }}" class="btn">{{ page.result_label }}</a>
+        {% if page.is_form_open %}
+          <a href="{{ page.form_url }}" class="btn">{{ page.form_label }}</a>
+          <a href="{{ page.result_url }}" class="btn">{{ page.result_label }}</a>
+        {% else %}
+          <a class"btn">{{ page.form_not_open_label }}</a>
+        {% endif %}
+        {% if page.is_form_under_data_flush %}
+          <a class="btn">{{ page.form_under_data_flush_label }}</a>
+        {% endif %}
       {% endif %}
     </header>
 
