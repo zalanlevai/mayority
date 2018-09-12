@@ -37,7 +37,7 @@
         {% else %}
           {% if page.is_form_under_data_flush %}
             <a class="btn">{{ page.form_under_data_flush_label }}</a>
-          {% if page.is_form_under_maintenance %}
+          {% elsif page.is_form_under_maintenance %}
             <a class="btn">{{ page.form_under_maintenance_label }}</a>
           {% else %}
             <a class="btn">{{ page.form_not_open_label }}</a>
