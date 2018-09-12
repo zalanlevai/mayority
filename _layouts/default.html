@@ -35,11 +35,13 @@
           <a href="{{ page.form_url }}" class="btn">{{ page.form_label }}</a>
           <a href="{{ page.result_url }}" class="btn">{{ page.result_label }}</a>
         {% else %}
-          <a class"btn">{{ page.form_not_open_label }}</a>
+          {% if page.is_form_under_data_flush %}
+            <a class="btn">{{ page.form_under_data_flush_label }}</a>
+          {% else %}
+            <a class="btn">{{ page.form_not_open_label }}</a>
+          {% endif %}
         {% endif %}
-        {% if page.is_form_under_data_flush %}
-          <a class="btn">{{ page.form_under_data_flush_label }}</a>
-        {% endif %}
+
       {% endif %}
     </header>
 
