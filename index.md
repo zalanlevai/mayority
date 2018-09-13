@@ -6,7 +6,7 @@ description: Szavazórendszer a többségnek
 is_project_page: false
 is_form_page: true
 
-is_form_open: true
+is_form_open: false
 is_form_under_data_flush: false
 is_form_under_maintenance: false
 
