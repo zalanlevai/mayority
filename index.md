@@ -7,7 +7,7 @@ is_project_page: false
 is_form_page: true
 
 is_form_open: false
-is_form_under_data_flush: false
+is_form_under_data_flush: true
 is_form_under_maintenance: false
 
 form_url: https://docs.google.com/forms/d/e/1FAIpQLSfGMxswU8oF_I3h26s0SdTa0wiDgjmv0DTmTMMAuS5cA-Qx1w/viewform?usp=sf_link
