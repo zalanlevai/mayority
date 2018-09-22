@@ -11,7 +11,7 @@ is_form_under_data_flush: false
 is_form_under_maintenance: false
 
 form_url: https://docs.google.com/forms/d/e/1FAIpQLSekEVHltBTrmY92uBB4fKTRurTJhPJ9zaMpaJK0dOrDojnsZQ/viewform?usp=sf_link
-result_url: https://docs.google.com/spreadsheets/d/1zX7fHIRM_54ArC3lKsbVsYlaudw_lSf2SN8qW-JdXEM/view#gid=0
+result_url: https://docs.google.com/spreadsheets/d/1zX7fHIRM_54ArC3lKsbVsYlaudw_lSf2SN8qW-JdXEM/edit?usp=sharing
 form_label: Űrlap kitöltése
 result_label: Eredmények megtekintése
 form_not_open_label: A szavazás lezárult
