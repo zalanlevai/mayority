@@ -6,8 +6,8 @@ description: Szavazórendszer a többségnek
 is_project_page: false
 is_form_page: true
 
-is_form_open: true
-is_form_under_data_flush: false
+is_form_open: false
+is_form_under_data_flush: true
 is_form_under_maintenance: false
 
 form_url: https://docs.google.com/forms/d/e/1FAIpQLScd4Y50XFJWcfKT5cgJaQjc7Fz9j3faIwGuWWLKgFDvMzmPFA/viewform?usp=sf_link
